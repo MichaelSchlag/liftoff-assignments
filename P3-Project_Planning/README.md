@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-https://drive.google.com/drive/folders/1UIfH6nbyq_E7FQIarIt1XWrbrfWpVrFC
+https://drive.google.com/open?id=1UIfH6nbyq_E7FQIarIt1XWrbrfWpVrFC
 - Site map
 - /new
 - /home
